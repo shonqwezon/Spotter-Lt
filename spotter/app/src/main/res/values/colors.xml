@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#646467</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#077066</color>
+    <color name="text_authentication">#494949</color>
+    <color name="text_bottom">#4b4b4e</color>
+
+    <color name="text_button_active">#386483</color>
+    <color name="text_button_notactive">#7F386483</color>
+    <color name="mainButtons">#275D97</color>
+    <color name="accept">#2B8A38</color>
+    <color name="reject">#810505</color>
+    <color name="id_text">#BED36F25</color>
+    <color name="yellow">#909120</color>
+    <color name="white">#E1CFBD</color>
+    <color name="colorHighlight">#fc8c969f</color>
+</resources>
+
+

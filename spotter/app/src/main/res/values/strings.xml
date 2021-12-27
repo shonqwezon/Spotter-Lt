@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Spotter</string>
+    <string name="title_activity_main_home">Map</string>
+    <string name="authentication">Войти в аккаунт</string>
+    <string name="text_bottom">Создать аккаунт</string>
+    <string name="btnSignIn">Войти</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+
+    <string name="registry">Создать аккаунт</string>
+    <string name="btnSignUp">Создать</string>
+    <string name="email">Почта</string>
+    <string name="text_upload">Тут что-то будет</string>
+    <string name="ID">ID:</string>
+    <string name="uTrack">Вы отслеживаете</string>
+    <string name="uBeingTracked">Вас отслеживают</string>
+    <string name="userNameField">Введите ID пользователя</string>
+    <string name="sen">хочет вас отслеживать</string>
+    <string name="accept">Принять</string>
+    <string name="reject">Отклонить</string>
+    <string name="add_user">Добавить пользователя</string>
+    <string name="settings">Настройки</string>
+    <string name="others">Прочее</string>
+    <string name="alerts">Оповещения></string>
+    <string name="avatar">Аватар</string>
+    <string name="downloadImage">Выбрать новый аватар</string>
+    <string name="changePass">Сменить пароль</string>
+    <string name="oldPassText">Введите старый пароль</string>
+    <string name="newPassText">Введите новый пароль</string>
+    <string name="repeatPassText">Повторите пароль</string>
+    <string name="textInfoSettings">В случае изменения пароля необходимо перезапустить приложение для корректной работы!</string>
+    <string name="changePassText">Изменить</string>
+    <string name="restorePass">Восстановление пароля</string>
+    <string name="restorePassText">Для восстановления пароля необходимо указать свой логин в поле ниже\n На почту, указанную при регестрации, будет отправлен ваш новый пароль</string>
+    <string name="continueRes">Продолжить</string>
+    <string name="restartAppText">Перезагрузить приложение</string>
+    <string name="Profile">Профиль</string>
+    <string name="service">Служба Spotter</string>
+    <string name="disableServiceText">Отключить службу</string>
+    <string name="warningService">Для запуска службы перезапустите приложение</string>
+</resources>

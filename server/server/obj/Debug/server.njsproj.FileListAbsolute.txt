@@ -1,0 +1,3 @@
+C:\Users\Shon2\source\repos\server-gps\server\obj\Debug\server.njsprojAssemblyReference.cache
+C:\Users\Shon2\source\repos\server-gps\server\obj\Debug\server.njsproj.CoreCompileInputs.cache
+C:\Users\Shon2\source\repos\server-gps\server\bin\Microsoft.NodejsTools.WebRole.dll
